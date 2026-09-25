@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 **2. Set your OpenAI API key**
 ```bash
-export OPENAI_API_KEY=sk-...
+export GEMINI_API_KEY=sk-...
 ```
 
 **3. Run the app**
