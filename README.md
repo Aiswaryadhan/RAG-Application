@@ -9,7 +9,7 @@
 1. You upload a **PDF or TXT file** (e.g. a research paper, a contract, a book chapter)
 2. The app **chunks** the document into small pieces and stores them in a local vector database (ChromaDB)
 3. You ask a **question** in plain English
-4. The app finds the most relevant chunks and sends them to GPT — which then answers based on your document
+4. The app finds the most relevant chunks and sends them to Gemini — which then answers based on your document
 
 ---
 
